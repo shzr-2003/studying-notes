@@ -1,4 +1,3 @@
-// luogu-judger-enable-o2
 # include <cstdio>
 # include <iostream>
 # include <cstring>
